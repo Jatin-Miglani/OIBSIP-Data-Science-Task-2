@@ -7,7 +7,7 @@ Python Libraries Used for this model are
 * Seaborn
 * Datetime
 * Calender
-* Plotly.expree
+* Plotly.express
 
 Analysis on The Unemployement rate after and before lockdown in India during year 2020 from January till October.
 Data Visualization and techniques*.
